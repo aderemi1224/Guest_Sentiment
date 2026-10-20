@@ -1,0 +1,5 @@
+.env
+.venv/
+models/
+results/
+data/processed/*.npy
